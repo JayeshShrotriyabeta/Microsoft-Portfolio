@@ -24,14 +24,14 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "As a Microsoft Learn Student Ambassador (MLSA), I access exclusive resources, training, and mentorship from Microsoft. This role allows me to organize events, lead projects, and connect with peers globally, helping me grow as a leader while making a positive impact on my campus and community.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Coding",
   "User experience",
   "Inclusive design",
   "Focus group testing",
